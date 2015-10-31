@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="3rd_party/jquery-ui-1.11.4.custom/jquery-ui.css">
+</head>
+
+<body>
+
+
+<div id='container'></div>
+<div id='controls'>
+	<p class="title">Choose a graph to plot:</p>
+	<input data-fname="paraboloid" type="button" class="function-button btn btn-success" value="Paraboloid" />
+	<input data-fname="saddle" type="button" class="function-button btn btn-success" value="Saddle" />
+	<input data-fname="bell" type="button" class="function-button btn btn-success" value="Bell Curve" />
+	<input data-fname="sinCos" type="button" class="function-button btn btn-success default-fn" value="Sin and Cos" />
+
+	<div class="form-group custom-function">
+		<label for="customFunction">Your function z(x,y)</label>
+		<div class="custom-function-space">
+			<input id="customFunction" class="form-control" placeholder="(x^2+y)/10">
+			<input id="custom-plot"data-fname="custom" type="button" class="function-button btn btn-success" value="Plot" />
+		</div>
+	</div>	
+	<div id="function-info" class="hide">
+		<i> Plot Info </i>
+		<p id="function-desciption"></p>
+		<div class="range-control">
+			<p class="label">x range:</p> 
+			<div class="slider-wrapper">
+				<p class="range-mark left">10</p>
+				<p class="range-mark right">20</p>
+				<div id="x-range" class="range-slider" data-axis="x" ></div>
+			</div>
+		</div>
+		<div class="range-control">
+			<p class="label">y range: </p>
+			<div class="slider-wrapper">
+				<p class="range-mark left">10</p>
+				<p class="range-mark right">20</p>
+				<div id="z-range" class="range-slider" data-axis="z" ></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="errPopup" class="alert alert-danger" role="alert"></div>
+<div id="successPopup" class="alert alert-success" role="alert"></div>
+
+
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="3rd_party/jquery-ui-1.11.4.custom/jquery-ui.js"></script>
+<script src="js/three.min.js"></script>
+<script src="js/navigation.js"></script>
+<script src="js/stats.min.js"></script>
+<script src="http://mrdoob.github.com/three.js/examples/fonts/helvetiker_regular.typeface.js"></script>
+<script src="js/parser.js"></script>
+
+<script src="js/plot3d.js"></script>
+<script src="js/camera_and_bg.js"></script>
+<script src="js/helpers.js"></script>
+<script src="js/main.js"></script>
+
+
+
+</body>
+</html>
