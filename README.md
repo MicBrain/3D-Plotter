@@ -22,6 +22,7 @@
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/10865069/4dcdb16e-7fbd-11e5-8a4f-9a02c472244b.png)
 
 #### General Approach
+   For coloring I used two extreme colors - green color for the min-z, and red color for the max-z.
 
 #### Personal Information
 My name is Rafayel Mkrtchyan and I am currently a third year international student at the University of California at Berkeley. I am a hackathon guy and a big fan of open-source software development. I expect to graduate from UC Berkeley in May, 2017. Currently I live in Berkeley, CA, USA. I can be reached at rafamian@berkeley.edu and 1- (310) - 347 - 5442.
