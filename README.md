@@ -12,5 +12,5 @@
    "3D Plotter" is a widely functional web platform that represents the plots of graphs of functions in a 3 dimensional space. It uses a very limited amount of features from three.js library(JavaScript 3D library) for rendering and accessing to GPU and Silent Mat library(JavaScript Expression Evaluator) in order to parse inputed functions.
    
 #### Examples
-![alt tag](https://cloud.githubusercontent.com/assets/5885065/7506024/f50b859a-f40e-11e4-809a-c9357ff0c98a.png)
+![alt tag](https://cloud.githubusercontent.com/assets/5885065/10864869/96cb8256-7fb8-11e5-9cbd-fbbfb11d7d43.png)
 
