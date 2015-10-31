@@ -27,4 +27,3 @@
 My name is Rafayel Mkrtchyan and I am currently a third year international student at the University of California at Berkeley. I am a hackathon guy and a big fan of open-source software development. I expect to graduate from UC Berkeley in May, 2017. Currently I live in Berkeley, CA, USA. I can be reached at rafamian@berkeley.edu and 1- (310) - 347 - 5442.
 
 #### TODO
-
