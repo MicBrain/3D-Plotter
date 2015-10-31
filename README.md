@@ -28,7 +28,7 @@
    where zSpan = zMax - zMin
    ```
    
-   3D graph in our project is a mesh(a mesh along with a geometry defines a 3D object). For instance, for any  2-variable function defined in [a,b] x [c,d] region(f:[a,b]x[c,d] -> [e,k]), we calculate the values of the function in 6400 points(80x80) and and define those (x,y, f(x,y)) points in 3D space as the vertices of out mesh. Then  we use triangulation.
+   3D graph in our project is a mesh(a mesh along with a geometry defines a 3D object). For instance, for any  2-variable function defined in [a,b] x [c,d] region(f:[a,b]x[c,d] -> [e,k]), we calculate the values of the function in 6400 points(80x80) and and define those (x,y, f(x,y)) points in 3D space as the vertices of out mesh. Then  we use triangulation. Basically we have 80x80 'squares'(quadrilateral to be precise) and each quadrilateral is a union of 2 triangles so by rendering those triangles we get the final image !
    
 
 #### Personal Information
