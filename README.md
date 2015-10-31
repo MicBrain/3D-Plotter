@@ -23,9 +23,10 @@
 
 #### General Approach
    For coloring I calculate the max and the min of the inputed functionused in additions to using two extreme colors - green color for the min-z, and red color for the max-z. For every z choose a color using this formula:
-   '''
-   fdss
-   '''
+   ```
+   color.setHSL((1 - (z - zMin) / zSpan) / 4, 1, 0.5);
+   where zSpan = zMax - zMin
+   ```
    
 
 #### Personal Information
