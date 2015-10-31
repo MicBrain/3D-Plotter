@@ -4,6 +4,7 @@
 * [Abstract](https://github.com/MicBrain/3D-Plotter/blob/master/README.md#abstract)
 * [Description](https://github.com/MicBrain/3D-Plotter/blob/master/README.md#description)
 * [Examples](https://github.com/MicBrain/3D-Plotter/blob/master/README.md#examples)
+* [General Approach](https://github.com/MicBrain/3D-Plotter/blob/master/README.md#general-approach)
 * [Personal Information](https://github.com/MicBrain/3D-Plotter/blob/master/README.md#personal-information)
 * [TODO](https://github.com/MicBrain/3D-Plotter/blob/master/README.md#todo)
 
@@ -19,6 +20,8 @@
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/10865025/30f3ff2c-7fbc-11e5-88ee-1364ff9c1ff2.png)
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/10865050/bcdc9468-7fbc-11e5-9b74-7eb3cb74d682.png)
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/10865069/4dcdb16e-7fbd-11e5-8a4f-9a02c472244b.png)
+
+#### General Approach
 
 #### Personal Information
 My name is Rafayel Mkrtchyan and I am currently a third year international student at the University of California at Berkeley. I am a hackathon guy and a big fan of open-source software development. I expect to graduate from UC Berkeley in May, 2017. Currently I live in Berkeley, CA, USA. I can be reached at rafamian@berkeley.edu and 1- (310) - 347 - 5442.
