@@ -23,6 +23,10 @@
 
 #### General Approach
    For coloring I calculate the max and the min of the inputed functionused in additions to using two extreme colors - green color for the min-z, and red color for the max-z. For every z choose a color using this formula:
+   '''
+   fdss
+   '''
+   
 
 #### Personal Information
 My name is Rafayel Mkrtchyan and I am currently a third year international student at the University of California at Berkeley. I am a hackathon guy and a big fan of open-source software development. I expect to graduate from UC Berkeley in May, 2017. Currently I live in Berkeley, CA, USA. I can be reached at rafamian@berkeley.edu and 1- (310) - 347 - 5442.
