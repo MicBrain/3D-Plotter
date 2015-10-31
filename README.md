@@ -5,7 +5,7 @@
 * [Description](https://github.com/MicBrain/3D-Plotter/blob/master/README.md#description)
 * [Examples](https://github.com/MicBrain/3D-Plotter/blob/master/README.md#examples)
 * [Personal Information](https://github.com/MicBrain/3D-Plotter/blob/master/README.md#personal-information)
-* TODO(https://github.com/MicBrain/3D-Plotter/blob/master/README.md#todo)
+* [TODO](https://github.com/MicBrain/3D-Plotter/blob/master/README.md#todo)
 
 #### Abstract
    3 dimensional plotters allow to better visualize the graphical representations of functions using three dimensional directions. They are widely used in mathematics, physics, economics and in various other fields. Different software systems such as Wolfram Alfa and MathWorks already have special tools, that represent graphical visualizations. However, the development of modern technologices constantly allow us to develop previously written tools. In this repository, I represent a new implementation for plotting functions, which uses the benefits provided by newly developed technologies. 
